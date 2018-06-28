@@ -4,6 +4,7 @@
     <list default="true" id="f1926697-c8e6-4e6a-8f8b-64804a2d9d7b" name="Default" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,41 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Entity.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-              <folding>
-                <marker date="1530201098453" expanded="true" signature="6:110" ph="..." />
-                <marker date="1530201098453" expanded="true" signature="163:356" ph="{...}" />
-                <marker date="1530201098453" expanded="true" signature="189:354" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vehicle.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding>
-                <marker date="1530201105213" expanded="true" signature="51:101" ph="{...}" />
-                <marker date="1530201105213" expanded="true" signature="78:99" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Helpers/ConfigHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -59,6 +33,7 @@
         <option value="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Class1.cs" />
         <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs" />
         <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs" />
+        <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Helpers/ConfigHelper.cs" />
       </list>
     </option>
   </component>
@@ -95,12 +70,6 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="VehicleRegistrationSystem (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="VehicleRegistrationSystem.Common" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="VehicleRegistrationSystem (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="VehicleRegistrationSystem.Common" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Entities" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -153,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530200488906</updated>
-      <workItem from="1530200494737" duration="613000" />
+      <workItem from="1530200494737" duration="1170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="613000" />
+    <option name="totallyTimeSpent" value="1170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -171,7 +140,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1926" height="1052" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="0" weight="0.32977587" />
@@ -219,6 +187,17 @@
     <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Class1.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <marker date="1530201267553" expanded="true" signature="66:512" ph="{...}" />
+            <marker date="1530201267553" expanded="true" signature="93:510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -231,14 +210,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Helpers/ConfigHelper.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1530201105213" expanded="true" signature="51:101" ph="{...}" />
-            <marker date="1530201105213" expanded="true" signature="78:99" ph="{...}" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="79" lean-forward="true" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
         </state>
       </provider>
     </entry>

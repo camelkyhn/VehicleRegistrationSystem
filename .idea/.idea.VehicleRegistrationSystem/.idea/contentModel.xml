@@ -15,6 +15,9 @@
         </e>
       </e>
       <e p="VehicleRegistrationSystem.Common" t="IncludeRecursive">
+        <e p="DataAccess" t="Include">
+          <e p="IDataAccess.cs" t="Include" />
+        </e>
         <e p="Entities" t="Include">
           <e p="Entity.cs" t="Include" />
           <e p="Vehicle.cs" t="Include" />
