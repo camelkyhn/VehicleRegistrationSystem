@@ -15,6 +15,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\VehicleRegistrationSystem.BLL\VehicleRegistrationSystem.BLL.csproj" />
     <ProjectReference Include="..\VehicleRegistrationSystem.DAL\VehicleRegistrationSystem.DAL.csproj" />
   </ItemGroup>
 </Project>
