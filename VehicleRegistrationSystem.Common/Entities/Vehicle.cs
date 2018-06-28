@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace VehicleRegistrationSystem.Common.Entities
+﻿namespace VehicleRegistrationSystem.Common.Entities
 {
     public class Vehicle : Entity
     {
@@ -18,6 +16,6 @@ namespace VehicleRegistrationSystem.Common.Entities
         
         public string Color { get; set; }
         
-        public bool? IsActive { get; set; }
+        public bool IsActive { get; set; }
     }
 }
