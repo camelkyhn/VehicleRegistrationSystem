@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1926697-c8e6-4e6a-8f8b-64804a2d9d7b" name="Default" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.dll" afterDir="false" />
@@ -20,17 +19,6 @@
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DatabaseContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DatabaseContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DbInitializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DbInitializer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.deps.json" afterDir="false" />
@@ -65,8 +53,8 @@
       <file leaf-file-name="VehicleController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Controllers/VehicleController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="472">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
               <folding>
                 <marker date="1530212070400" expanded="true" signature="6:160" ph="..." />
                 <marker date="1530212070400" expanded="true" signature="213:875" ph="{...}" />
@@ -76,6 +64,19 @@
                 <marker date="1530212070400" expanded="true" signature="559:606" ph="{...}" />
                 <marker date="1530212070400" expanded="true" signature="651:698" ph="{...}" />
                 <marker date="1530212070400" expanded="true" signature="759:867" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <folding>
+                <marker date="1530203180337" expanded="true" signature="66:521" ph="{...}" />
+                <marker date="1530203180337" expanded="true" signature="102:519" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -132,10 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseContext.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DatabaseContext.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DatabaseContext.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
+            <state relative-caret-position="495">
               <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
               <folding>
                 <marker date="1530209692265" expanded="true" signature="6:201" ph="..." />
@@ -145,6 +146,24 @@
                 <marker date="1530209692265" expanded="true" signature="459:479" ph="{...}" />
                 <marker date="1530209692265" expanded="true" signature="609:693" ph="{...}" />
                 <marker date="1530209692265" expanded="true" signature="780:1134" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbInitializer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DbInitializer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="231" selection-start-line="22" selection-start-column="231" selection-end-line="22" selection-end-column="231" />
+              <folding>
+                <marker date="1530209329761" expanded="false" signature="6:108" ph="..." />
+                <marker date="1530209329761" expanded="true" signature="157:1421" ph="{...}" />
+                <marker date="1530209329761" expanded="true" signature="197:1419" ph="{...}" />
+                <marker date="1530209329761" expanded="true" signature="266:1413" ph="{...}" />
+                <marker date="1530209329761" expanded="true" signature="396:470" ph="{...}" />
+                <marker date="1530209329761" expanded="true" signature="525:1244" ph="{...}" />
+                <marker date="1530209329761" expanded="true" signature="1292:1367" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -171,36 +190,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Views/Vehicle/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="52" column="38" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="38" />
+            <state relative-caret-position="1200">
+              <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
               <folding>
-                <marker date="1530212783984" expanded="true" signature="71:131" ph="@..." />
-                <marker date="1530212783984" expanded="true" signature="149:202" ph="&lt;p.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="204:2145" ph="&lt;table.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="230:972" ph="&lt;tr.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="243:316" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="334:407" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="425:497" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="515:592" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="610:686" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="704:777" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="795:868" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="886:962" ph="&lt;th.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="982:2136" ph="@..." />
-                <marker date="1530212783984" expanded="true" signature="1010:2136" ph="{...}" />
-                <marker date="1530212783984" expanded="true" signature="1025:2130" ph="&lt;tr.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1042:1118" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1140:1220" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1242:1321" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1343:1427" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1449:1532" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1554:1634" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1656:1736" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1758:1841" ph="&lt;td.../&gt;" />
-                <marker date="1530212783984" expanded="true" signature="1867:2116" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="71:131" ph="@..." />
+                <marker date="1530212912627" expanded="true" signature="149:202" ph="&lt;p.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="204:2117" ph="&lt;table.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="230:972" ph="&lt;tr.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="243:316" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="334:407" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="425:497" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="515:592" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="610:686" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="704:777" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="795:868" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="886:962" ph="&lt;th.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="982:2108" ph="@..." />
+                <marker date="1530212912627" expanded="true" signature="1010:2108" ph="{...}" />
+                <marker date="1530212912627" expanded="true" signature="1025:2102" ph="&lt;tr.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1042:1118" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1140:1216" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1238:1313" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1335:1415" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1437:1516" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1538:1614" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1636:1712" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1734:1813" ph="&lt;td.../&gt;" />
+                <marker date="1530212912627" expanded="true" signature="1839:2088" ph="&lt;td.../&gt;" />
               </folding>
             </state>
           </provider>
@@ -370,7 +389,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530200488906</updated>
-      <workItem from="1530200494737" duration="10943000" />
+      <workItem from="1530200494737" duration="11244000" />
     </task>
     <task id="LOCAL-00001" summary="Layout">
       <created>1530208183042</created>
@@ -379,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530208183042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DbContext and DbInitializer updated">
+      <created>1530213079874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530213079874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10943000" />
+    <option name="totallyTimeSpent" value="11244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,6 +422,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1926" height="1052" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="0" weight="0.32977587" />
@@ -404,10 +431,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="NuGet" sideWeight="0.4994664" weight="0.329718" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.17235859" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.17235859" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" weight="0.329718" />
       <window_info anchor="right" id="Database" order="1" />
@@ -458,25 +485,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Layout" />
+    <MESSAGE value="DbContext and DbInitializer updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="DbContext and DbInitializer updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Controllers/VehicleController.cs</url>
-          <line>35</line>
-          <properties documentPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Controllers/VehicleController.cs" initialLine="35">
-            <startOffsets>
-              <startOffset value="835" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="857" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="6" />
     </breakpoint-manager>
   </component>
@@ -516,17 +529,6 @@
           <folding>
             <marker date="1530201861603" expanded="true" signature="62:133" ph="{...}" />
             <marker date="1530201861603" expanded="true" signature="110:131" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <marker date="1530203180337" expanded="true" signature="66:521" ph="{...}" />
-            <marker date="1530203180337" expanded="true" signature="102:519" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -647,22 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DbInitializer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="231" selection-start-line="22" selection-start-column="231" selection-end-line="22" selection-end-column="231" />
-          <folding>
-            <marker date="1530209329761" expanded="false" signature="6:108" ph="..." />
-            <marker date="1530209329761" expanded="true" signature="157:1421" ph="{...}" />
-            <marker date="1530209329761" expanded="true" signature="197:1419" ph="{...}" />
-            <marker date="1530209329761" expanded="true" signature="266:1413" ph="{...}" />
-            <marker date="1530209329761" expanded="true" signature="396:470" ph="{...}" />
-            <marker date="1530209329761" expanded="true" signature="525:1244" ph="{...}" />
-            <marker date="1530209329761" expanded="true" signature="1292:1367" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Views/Vehicle/Delete.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -696,22 +682,6 @@
           <caret column="56" selection-start-column="56" selection-end-column="56" />
           <folding>
             <marker date="1530209386146" expanded="true" signature="58:115" ph="@..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DatabaseContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-          <folding>
-            <marker date="1530209692265" expanded="true" signature="6:201" ph="..." />
-            <marker date="1530209692265" expanded="true" signature="250:1142" ph="{...}" />
-            <marker date="1530209692265" expanded="true" signature="309:1140" ph="{...}" />
-            <marker date="1530209692265" expanded="true" signature="348:368" ph="{...}" />
-            <marker date="1530209692265" expanded="true" signature="459:479" ph="{...}" />
-            <marker date="1530209692265" expanded="true" signature="609:693" ph="{...}" />
-            <marker date="1530209692265" expanded="true" signature="780:1134" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -833,10 +803,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <marker date="1530203180337" expanded="true" signature="66:521" ph="{...}" />
+            <marker date="1530203180337" expanded="true" signature="102:519" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Controllers/VehicleController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="472">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
           <folding>
             <marker date="1530212070400" expanded="true" signature="6:160" ph="..." />
             <marker date="1530212070400" expanded="true" signature="213:875" ph="{...}" />
@@ -852,33 +833,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Views/Vehicle/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="52" column="38" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="38" />
+        <state relative-caret-position="1200">
+          <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
           <folding>
-            <marker date="1530212783984" expanded="true" signature="71:131" ph="@..." />
-            <marker date="1530212783984" expanded="true" signature="149:202" ph="&lt;p.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="204:2145" ph="&lt;table.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="230:972" ph="&lt;tr.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="243:316" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="334:407" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="425:497" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="515:592" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="610:686" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="704:777" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="795:868" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="886:962" ph="&lt;th.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="982:2136" ph="@..." />
-            <marker date="1530212783984" expanded="true" signature="1010:2136" ph="{...}" />
-            <marker date="1530212783984" expanded="true" signature="1025:2130" ph="&lt;tr.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1042:1118" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1140:1220" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1242:1321" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1343:1427" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1449:1532" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1554:1634" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1656:1736" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1758:1841" ph="&lt;td.../&gt;" />
-            <marker date="1530212783984" expanded="true" signature="1867:2116" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="71:131" ph="@..." />
+            <marker date="1530212912627" expanded="true" signature="149:202" ph="&lt;p.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="204:2117" ph="&lt;table.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="230:972" ph="&lt;tr.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="243:316" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="334:407" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="425:497" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="515:592" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="610:686" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="704:777" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="795:868" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="886:962" ph="&lt;th.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="982:2108" ph="@..." />
+            <marker date="1530212912627" expanded="true" signature="1010:2108" ph="{...}" />
+            <marker date="1530212912627" expanded="true" signature="1025:2102" ph="&lt;tr.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1042:1118" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1140:1216" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1238:1313" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1335:1415" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1437:1516" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1538:1614" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1636:1712" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1734:1813" ph="&lt;td.../&gt;" />
+            <marker date="1530212912627" expanded="true" signature="1839:2088" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DbInitializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="231" selection-start-line="22" selection-start-column="231" selection-end-line="22" selection-end-column="231" />
+          <folding>
+            <marker date="1530209329761" expanded="false" signature="6:108" ph="..." />
+            <marker date="1530209329761" expanded="true" signature="157:1421" ph="{...}" />
+            <marker date="1530209329761" expanded="true" signature="197:1419" ph="{...}" />
+            <marker date="1530209329761" expanded="true" signature="266:1413" ph="{...}" />
+            <marker date="1530209329761" expanded="true" signature="396:470" ph="{...}" />
+            <marker date="1530209329761" expanded="true" signature="525:1244" ph="{...}" />
+            <marker date="1530209329761" expanded="true" signature="1292:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Context/DatabaseContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <folding>
+            <marker date="1530209692265" expanded="true" signature="6:201" ph="..." />
+            <marker date="1530209692265" expanded="true" signature="250:1142" ph="{...}" />
+            <marker date="1530209692265" expanded="true" signature="309:1140" ph="{...}" />
+            <marker date="1530209692265" expanded="true" signature="348:368" ph="{...}" />
+            <marker date="1530209692265" expanded="true" signature="459:479" ph="{...}" />
+            <marker date="1530209692265" expanded="true" signature="609:693" ph="{...}" />
+            <marker date="1530209692265" expanded="true" signature="780:1134" ph="{...}" />
           </folding>
         </state>
       </provider>

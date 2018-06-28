@@ -30,3 +30,14 @@
 /home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.dll
 /home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.pdb
 /home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.csproj.CopyComplete
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/Razor/Views/Vehicle/Create.g.cshtml.cs
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/Razor/Views/Vehicle/Delete.g.cshtml.cs
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/Razor/Views/Vehicle/Details.g.cshtml.cs
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/Razor/Views/Vehicle/Edit.g.cshtml.cs
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/Razor/Views/Vehicle/Index.g.cshtml.cs
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.dll
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.dll
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.dll
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.pdb
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.pdb
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.WEB/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.pdb

@@ -4358,6 +4358,23 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "VehicleRegistrationSystem.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "2.1.0",
+          "VehicleRegistrationSystem.Common": "1.0.0",
+          "VehicleRegistrationSystem.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VehicleRegistrationSystem.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VehicleRegistrationSystem.BLL.dll": {}
+        }
+      },
       "VehicleRegistrationSystem.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -11604,6 +11621,11 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "VehicleRegistrationSystem.BLL/1.0.0": {
+      "type": "project",
+      "path": "../VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj",
+      "msbuildProject": "../VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj"
+    },
     "VehicleRegistrationSystem.Common/1.0.0": {
       "type": "project",
       "path": "../VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj",
@@ -11622,6 +11644,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.0",
+      "VehicleRegistrationSystem.BLL >= 1.0.0",
       "VehicleRegistrationSystem.DAL >= 1.0.0"
     ]
   },
@@ -11653,6 +11676,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj": {
+              "projectPath": "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj"
+            },
             "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj": {
               "projectPath": "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj"
             }
