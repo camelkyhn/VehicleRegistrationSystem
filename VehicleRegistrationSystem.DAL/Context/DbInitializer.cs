@@ -18,9 +18,9 @@ namespace VehicleRegistrationSystem.DAL.Context
 
             var vehicles = new Vehicle[]
             {
-                new Vehicle(){ Brand = "Hyundai", Color = "Red", Model = "i10", ModelYear = 2008, Type = "Hatchbek", Plate = "35asd123", NickName = "MuswelHill", IsActive = true, CreateDate = DateTime.Now},
-                new Vehicle(){ Brand = "Skoda", Color = "Red", Model = "Octavia", ModelYear = 2008, Type = "Sedan", Plate = "35qwe456", NickName = "Archway", IsActive = true, CreateDate = DateTime.Now},
-                new Vehicle(){ Brand = "LandRover", Color = "Red", Model = "Discovery", ModelYear = 2008, Type = "SUV", Plate = "35zxc789", NickName = "North", IsActive = true, CreateDate = DateTime.Now}
+                new Vehicle(){ Brand = "Hyundai", Color = "Red", Model = "i10", ModelYear = 2008, Type = "Hatchbek", Plate = "35asd123", NickName = "MuswelHill", IsActive = true, CreatedDate = DateTime.Now, UpdatedDate = DateTime.Now },
+                new Vehicle(){ Brand = "Skoda", Color = "Red", Model = "Octavia", ModelYear = 2008, Type = "Sedan", Plate = "35qwe456", NickName = "Archway", IsActive = true, CreatedDate = DateTime.Now, UpdatedDate = DateTime.Now },
+                new Vehicle(){ Brand = "LandRover", Color = "Red", Model = "Discovery", ModelYear = 2008, Type = "SUV", Plate = "35zxc789", NickName = "North", IsActive = true, CreatedDate = DateTime.Now, UpdatedDate = DateTime.Now }
             };
 
             foreach (var vehicle in vehicles)

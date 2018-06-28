@@ -6,3 +6,9 @@
 /home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.AssemblyInfo.cs
 /home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.dll
 /home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.pdb
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csprojAssemblyReference.cache
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.runtimeconfig.json
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.runtimeconfig.dev.json
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.dll
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.pdb
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.csproj.CopyComplete
