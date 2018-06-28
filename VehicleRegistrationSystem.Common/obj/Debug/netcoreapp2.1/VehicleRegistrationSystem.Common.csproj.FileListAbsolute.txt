@@ -1,0 +1,8 @@
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.deps.json
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.dll
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/bin/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.pdb
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.csproj.CoreCompileInputs.cache
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.AssemblyInfoInputs.cache
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.AssemblyInfo.cs
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.dll
+/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.pdb

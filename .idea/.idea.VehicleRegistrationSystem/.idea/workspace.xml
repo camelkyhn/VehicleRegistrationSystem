@@ -1,13 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1926697-c8e6-4e6a-8f8b-64804a2d9d7b" name="Default" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/VehicleRegistrationSystem.WEB.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/VehicleRegistrationSystem.WEB.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/VehicleRegistrationSystem.WEB.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/VehicleRegistrationSystem.WEB.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Class1.cs" />
+        <option value="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/Class1.cs" />
+        <option value="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="22" />
     <option name="width" value="1920" />
     <option name="height" value="1013" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VehicleRegistrationSystem (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -24,5 +115,81 @@
       <option name="PROJECT_KIND" value="None" />
       <option name="PROJECT_TFM" value="" />
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1926697-c8e6-4e6a-8f8b-64804a2d9d7b" name="Default" comment="" />
+      <created>1530200488906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530200488906</updated>
+      <workItem from="1530200494737" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="265000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="-1" width="1926" height="1052" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="0" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="NuGet" visible="true" weight="0.329718" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.17235859" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.BLL/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
