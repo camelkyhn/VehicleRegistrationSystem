@@ -11,6 +11,6 @@ namespace VehicleRegistrationSystem.Common.Entities
 
         public DateTime CreatedDate { get; set; }
         
-        public DateTime? UpdatedDate { get; set; }
+        public Nullable<DateTime> UpdatedDate { get; set; }
     }
 }
