@@ -4357,6 +4357,37 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "VehicleRegistrationSystem.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/VehicleRegistrationSystem.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VehicleRegistrationSystem.Common.dll": {}
+        }
+      },
+      "VehicleRegistrationSystem.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "2.1.0",
+          "VehicleRegistrationSystem.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VehicleRegistrationSystem.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VehicleRegistrationSystem.DAL.dll": {}
+        }
       }
     }
   },
@@ -11572,6 +11603,16 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "VehicleRegistrationSystem.Common/1.0.0": {
+      "type": "project",
+      "path": "../VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj",
+      "msbuildProject": "../VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj"
+    },
+    "VehicleRegistrationSystem.DAL/1.0.0": {
+      "type": "project",
+      "path": "../VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj",
+      "msbuildProject": "../VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11580,7 +11621,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 2.1.1",
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.0"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.0",
+      "VehicleRegistrationSystem.DAL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -11610,7 +11652,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj": {
+              "projectPath": "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -836,6 +836,21 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "VehicleRegistrationSystem.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/VehicleRegistrationSystem.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VehicleRegistrationSystem.Common.dll": {}
+        }
       }
     }
   },
@@ -3220,6 +3235,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "VehicleRegistrationSystem.Common/1.0.0": {
+      "type": "project",
+      "path": "../VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj",
+      "msbuildProject": "../VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3227,7 +3247,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 2.1.1",
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.0"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 2.1.0",
+      "VehicleRegistrationSystem.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3257,7 +3278,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj": {
+              "projectPath": "/home/kemal/RiderProjects/VehicleRegistrationSystem/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
