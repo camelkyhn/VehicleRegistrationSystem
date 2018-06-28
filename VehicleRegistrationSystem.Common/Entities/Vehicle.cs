@@ -2,7 +2,7 @@
 
 namespace VehicleRegistrationSystem.Common.Entities
 {
-    public class Vehicle
+    public class Vehicle : Entity
     {
         public string Plate { get; set; }
         
