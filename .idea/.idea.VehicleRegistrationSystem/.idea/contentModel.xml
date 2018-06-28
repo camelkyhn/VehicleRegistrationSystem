@@ -4,6 +4,10 @@
     <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_VehicleRegistrationSystem.-421514816.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="VehicleRegistrationSystem.BLL" t="IncludeRecursive">
+        <e p="Managers" t="Include">
+          <e p="ManagerBase.cs" t="Include" />
+          <e p="VehicleManager.cs" t="Include" />
+        </e>
         <e p="VehicleRegistrationSystem.BLL.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
