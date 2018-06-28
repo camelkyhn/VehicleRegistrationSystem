@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1926697-c8e6-4e6a-8f8b-64804a2d9d7b" name="Default" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/VehicleRegistrationSystem.BLL.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.BLL.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/VehicleRegistrationSystem.BLL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/VehicleRegistrationSystem.Common.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.Common.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/VehicleRegistrationSystem.Common.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.Common/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/VehicleRegistrationSystem.DAL.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.DAL.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/VehicleRegistrationSystem.DAL.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/VehicleRegistrationSystem.WEB.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/VehicleRegistrationSystem.WEB.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/Debug/netcoreapp2.1/VehicleRegistrationSystem.WEB.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/VehicleRegistrationSystem.WEB.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/VehicleRegistrationSystem.WEB.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VehicleRegistrationSystem.WEB/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VehicleRegistrationSystem/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,10 +13,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Entity.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <folding>
+                <marker date="1530201098453" expanded="true" signature="6:110" ph="..." />
+                <marker date="1530201098453" expanded="true" signature="163:356" ph="{...}" />
+                <marker date="1530201098453" expanded="true" signature="189:354" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vehicle.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1530201105213" expanded="true" signature="51:101" ph="{...}" />
+                <marker date="1530201105213" expanded="true" signature="78:99" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.WEB/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,6 +57,8 @@
         <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Class1.cs" />
         <option value="$PROJECT_DIR$/VehicleRegistrationSystem.BLL/Class1.cs" />
         <option value="$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Class1.cs" />
+        <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs" />
+        <option value="$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs" />
       </list>
     </option>
   </component>
@@ -62,7 +76,9 @@
     <option name="width" value="1920" />
     <option name="height" value="1013" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -74,6 +90,17 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="VehicleRegistrationSystem (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VehicleRegistrationSystem (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="VehicleRegistrationSystem.Common" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VehicleRegistrationSystem (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="VehicleRegistrationSystem.Common" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Entities" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -126,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530200488906</updated>
-      <workItem from="1530200494737" duration="265000" />
+      <workItem from="1530200494737" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265000" />
+    <option name="totallyTimeSpent" value="613000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -144,18 +171,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1" width="1926" height="1052" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="0" weight="0.32977587" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053364" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="NuGet" visible="true" weight="0.329718" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.17235859" />
+      <window_info anchor="bottom" id="NuGet" sideWeight="0.4994664" weight="0.329718" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.17235859" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Database" order="1" />
@@ -190,6 +218,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.DAL/Class1.cs">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Entity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <marker date="1530201098453" expanded="true" signature="6:110" ph="..." />
+            <marker date="1530201098453" expanded="true" signature="163:356" ph="{...}" />
+            <marker date="1530201098453" expanded="true" signature="189:354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VehicleRegistrationSystem.Common/Entities/Vehicle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1530201105213" expanded="true" signature="51:101" ph="{...}" />
+            <marker date="1530201105213" expanded="true" signature="78:99" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
