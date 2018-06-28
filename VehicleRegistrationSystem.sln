@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRegistrationSystem.WEB", "VehicleRegistrationSystem.WEB\VehicleRegistrationSystem.WEB.csproj", "{F55DF3DB-EF8B-4B39-8621-A0678964EA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRegistrationSystem.Common", "VehicleRegistrationSystem.Common\VehicleRegistrationSystem.Common.csproj", "{D05CDC04-7F1D-48E1-8B32-8FCF1CCA7460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRegistrationSystem.BLL", "VehicleRegistrationSystem.BLL\VehicleRegistrationSystem.BLL.csproj", "{C206C787-6D12-4208-8CCC-8A4AD0326DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleRegistrationSystem.DAL", "VehicleRegistrationSystem.DAL\VehicleRegistrationSystem.DAL.csproj", "{5CF2B933-09E9-4E79-9709-B5CCC5E163DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55DF3DB-EF8B-4B39-8621-A0678964EA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55DF3DB-EF8B-4B39-8621-A0678964EA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55DF3DB-EF8B-4B39-8621-A0678964EA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55DF3DB-EF8B-4B39-8621-A0678964EA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05CDC04-7F1D-48E1-8B32-8FCF1CCA7460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05CDC04-7F1D-48E1-8B32-8FCF1CCA7460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05CDC04-7F1D-48E1-8B32-8FCF1CCA7460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05CDC04-7F1D-48E1-8B32-8FCF1CCA7460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C206C787-6D12-4208-8CCC-8A4AD0326DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C206C787-6D12-4208-8CCC-8A4AD0326DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C206C787-6D12-4208-8CCC-8A4AD0326DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C206C787-6D12-4208-8CCC-8A4AD0326DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF2B933-09E9-4E79-9709-B5CCC5E163DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF2B933-09E9-4E79-9709-B5CCC5E163DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF2B933-09E9-4E79-9709-B5CCC5E163DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF2B933-09E9-4E79-9709-B5CCC5E163DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
