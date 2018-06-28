@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
 using Microsoft.AspNetCore.Mvc;
 using VehicleRegistrationSystem.BLL.Managers;
 using VehicleRegistrationSystem.Common.Entities;
@@ -11,6 +13,25 @@ namespace VehicleRegistrationSystem.WEB.Controllers
 
         public IActionResult Create()
         {
+            return View();
+        }
+        
+        [HttpPost]
+        public IActionResult Create(Vehicle vehicle)
+        {
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    VehicleManager.Insert(vehicle);
+
+                    return RedirectToAction("Index");
+                }
+            }
+            catch (DataException e)
+            {
+                ModelState.AddModelError("", "Unable to save changes. Try again, and if the problem persists see your system administrator.");
+            }
             return View();
         }
         
