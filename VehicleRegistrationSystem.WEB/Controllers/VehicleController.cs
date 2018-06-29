@@ -70,7 +70,19 @@ namespace VehicleRegistrationSystem.WEB.Controllers
         // GET: Vehicle/Details/5
         public IActionResult Details(int? id)
         {
-            return View();
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            var vehicle = VehicleManager.Find(v => v.Id == id);
+
+            if (vehicle == null)
+            {
+                return NotFound();
+            }
+            
+            return View(vehicle);
         }
         
         // GET: Vehicle/Edit/5
